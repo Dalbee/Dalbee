@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### 👋 Hi there, I'm Dalbert - aka Dalbee 
 🔭 I’m interested in software development for Global Navigation Satellite Systems, Data Science, Cloud computing, and Test Automation
 
