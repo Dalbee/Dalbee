@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 Hi there, I'm Dalbert - aka Dalbee 
-🔭 I’m interested in software development for Global Navigation Satellite Systems, Data Science, Cloud computing, and Test Automation
+🔭 I’m interested in software development for Global Navigation Satellite Systems, Data Science, Data Engineering, Cloud computing, and Test Automation
 
 🌱 I’m currently learning Azure Cloud and DevOps, and Test Automation
 
