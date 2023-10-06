@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Azure Cloud and DevOps, and Test Automation
 
-🤝🏼 I’m looking to collaborate on Cloud Infrastructure projects, Data Science and Test Automation projects
+🤝🏼 I’m looking to collaborate on Cloud Infrastructure projects, Data Science, Data Engineering, and Test Automation projects
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dalbertonyebuchi/) and [Twitter](https://twitter.com/DalbertZim)
 
