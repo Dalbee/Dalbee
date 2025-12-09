@@ -15,13 +15,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there, I'm Dalbert - aka Dalbee 
-🔭 I’m interested in software development for Global Navigation Satellite Systems, Data Science, Data Engineering, Cloud computing, and Test Automation
 
-🌱 I’m currently learning Azure Cloud and DevOps, and Test Automation
+### 👋 Hi there, I'm **Dalbert** — _aka_ **Dalbee**
 
-🤝🏼 I’m looking to collaborate on Cloud Infrastructure projects, Data Science, Data Engineering, and Test Automation projects
+A passionate engineer with focus areas in **Data Analytics/Science/Engineering**, **Test Automation**, and **DevOps**, with growing interests in **GNSS** and **CubeSats**. I love building reliable systems, solving complex problems with data, and exploring how software shapes the future of space and cloud technologies.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dalbertonyebuchi/) and [Twitter](https://twitter.com/DalbertZim)
+---
 
-⚡ Fun fact: I love to cycle, sing, play the piano and badminton
+### 🚀 What I’m Interested In  
+- **Software development for Global Navigation Satellite Systems (GNSS)**  
+- **Data Science & Machine Learning**  
+- **Data Engineering & Cloud Computing**  
+- **Test Automation, CI/CD, and DevOps**
+
+---
+
+### 🌱 What I’m Currently Learning  
+- **Azure Cloud & DevOps practices**  
+- **Advanced Test Automation frameworks**  
+
+---
+
+### 🤝 What I’m Looking to Collaborate On  
+- Cloud infrastructure & automation  
+- Data science and machine learning projects  
+- Data engineering pipelines and tooling  
+- Test automation frameworks & CI/CD projects  
+
+---
+
+### 📫 Connect With Me  
+- **LinkedIn:** [linkedin.com/in/dalbertonyebuchi](https://www.linkedin.com/in/dalbertonyebuchi/)  
+- **Twitter:** [twitter.com/DalbertZim](https://twitter.com/DalbertZim)
+
+---
+
+### ⚡ Fun Fact  
+I love **cycling**, **singing**, **playing the piano**, and **badminton** — balance is essential, whether in data, systems, or life!
+
+
