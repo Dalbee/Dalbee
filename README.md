@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there, I'm **Dalbert** — _aka_ **Dalbee**
 
-A passionate engineer with focus areas in **Data Analytics/Science/Engineering**, **Test Automation**, and **DevOps**, with growing interests in **GNSS** and **CubeSats**. I love building reliable systems, solving complex problems with data, and exploring how software shapes the future of space and cloud technologies.
+A software engineer with focus areas in **Data Analytics/Science/Engineering**, **Test Automation**, and **DevOps**, with growing interests in **GNSS** and **CubeSats**. I love building reliable systems, solving complex problems with data, and exploring how software shapes the future of space and cloud technologies.
 
 ---
 
