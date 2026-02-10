@@ -1,15 +1,16 @@
 # 👋 Hi there, I'm Dalbert (Dalbee)
 
-**Software Engineer | Data Architect | GxP & Aerospace Enthusiast**
+**Software Engineer | Industrial Data Architect | GxP & DevOps Specialist**
 
-I build high-integrity, distributed systems that bridge the gap between complex data and real-world operations. With a background spanning **Industrial IoT (Biotech)** and **Enterprise Energy Analytics**, I am now focusing my expertise in DevOps and Data Engineering toward the **Aerospace sector (GNSS & CubeSats)**.
+I build high-integrity, distributed systems that bridge the gap between complex data and real-world operations. My expertise lies in designing **scalable data pipelines** and **mission-critical HMIs** for high-stakes industries like Biotech, Energy, and Aerospace.
 
 ---
 
-### 🛰️ Core Mission & Interests
-* **Aerospace Transition:** Applying CI/CD and high-availability architecture to GNSS and CubeSat ground segments.
-* **Reliable Systems:** Expertise in GxP-compliant software and 21 CFR Part 11 data integrity standards.
-* **Distributed Architectures:** Specialized in "Triad" microservice patterns (C#/.NET, Python, React).
+### 🚀 Core Focus & Expertise
+* **Industrial Data Engineering:** Architecting Medallion-style Lakehouses for multi-million row telemetry.
+* **Mission-Critical Systems:** Expertise in GxP-compliant software, 21 CFR Part 11 integrity, and high-availability DevOps.
+* **Distributed Architectures:** Specialized in "Triad" microservice patterns (.NET, Python, React).
+* **Domain Interest:** Exploring the intersection of Data Engineering and GNSS/CubeSat ground segments.
 
 ---
 
@@ -27,10 +28,10 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 ### 🧪 Featured Production-Scale Projects
 
 #### 🧬 [Bioprocess Insight Platform (BIP)](https://github.com/Dalbee/bioprocess-insights-platform)
-**High-Fidelity Industrial Digital Twin & GxP Dashboard**
+**Industrial Digital Twin & GxP-Compliant HMI**
 * **Architecture:** Engineered a **Decoupled Triad Architecture** (React HMI ↔ Python SCADA Engine ↔ .NET 10 Compliance Service) to bridge historical data with live operational compliance.
 * **Innovation:** Integrated a physics-based Digital Twin linking Impeller RPM to Oxygen Transfer and predictive temperature modeling via moving-window linear regression.
-* **Compliance & HMI:** Built a dedicated **.NET microservice** for immutable audit trails (**21 CFR Part 11**) and a React-based HMI featuring deterministic, GxP-compliant pulsing alarms.
+* **Compliance:** Built a dedicated **.NET microservice** for immutable audit trails (**21 CFR Part 11**) and a React-based HMI featuring deterministic pulsing alarms.
 
 
 
@@ -39,24 +40,24 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 * **Business Impact:** Identified **€4.9M in potential cost recovery** (81,744 MWh efficiency risk) through advanced **Power BI (DAX)** and Star-Schema modeling.
 * **Scale:** Implemented a full **Medallion Architecture** (Bronze/Silver/Gold) on OneLake using **PySpark** to process and transform millions of rows of operational telemetry.
 * **Visualization:** Developed executive-level **Power BI dashboards** utilizing calculation groups and DirectLake mode to track production vs. demand with sub-second interactivity.
-* **Governance:** Established a "Single Source of Truth" by computing complex KPIs upstream in Spark, secured via RLS/OLS, and automated through Fabric CI/CD deployment gates.
+* **Governance:** Established a "Single Source of Truth" by computing KPIs upstream in Spark, secured via RLS/OLS, and automated through Fabric CI/CD pipelines.
 
 
 
 #### 🤖 [OrangeHRM Test Factory](https://github.com/Dalbee/OrangeHRM)
-**DevOps & Quality Engineering**
+**Quality Engineering & DevOps Automation**
 * **Stability:** Developed a comprehensive automated testing suite designed for high-frequency deployment environments, ensuring system reliability through rigorous validation.
 * **Automation:** Focused on building robust frameworks and CI/CD integration to minimize regression risks in production-aligned scenarios.
 
 ---
 
 ### 🤝 Let's Connect & Collaborate
-* **Exploring:** Open-source GNSS signal processing and satellite telemetry projects.
 * **Expertise:** Ask me about **Digital Twins**, **Azure Fabric**, or **GxP software integrity**.
+* **Interests:** Always open to discussing GNSS signal processing and satellite telemetry projects.
 * **LinkedIn:** [linkedin.com/in/dalbertonyebuchi](https://www.linkedin.com/in/dalbertonyebuchi/)
 * **Twitter:** [@DalbertZim](https://twitter.com/DalbertZim)
 
 ---
 
 ### ⚡ Fun Fact
-When I'm not architecting data pipelines, I’m balancing life by **cycling**, **singing**, or **playing the piano**. In data and in music, the rhythm and the "timing" (pun intended for GNSS) are everything!
+I balance the logic of data with the rhythm of music—I love **cycling**, **singing**, and **playing the piano**. Whether in a data pipeline or a piano sonata, "timing" is everything!
