@@ -1,56 +1,56 @@
-<!-- ### Hi there 👋
+# 👋 Hi there, I'm Dalbert (Dalbee)
 
-<!--
-**Dalbee/Dalbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Data Architect | GxP & Aerospace Enthusiast**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### 👋 Hi there, I'm **Dalbert** — _aka_ **Dalbee**
-
-A software engineer with focus areas in **Data Analytics/Science/Engineering**, **Test Automation**, and **DevOps**, with growing interests in **GNSS** and **CubeSats**. I love building reliable systems, solving complex problems with data, and exploring how software shapes the future of space and cloud technologies.
+I build high-integrity, distributed systems that bridge the gap between complex data and real-world operations. With a background spanning **Industrial IoT (Biotech)** and **Enterprise Energy Analytics**, I am now focusing my expertise in DevOps and Data Engineering toward the **Aerospace sector (GNSS & CubeSats)**.
 
 ---
 
-### 🚀 What I’m Interested In  
-- **Software development for Global Navigation Satellite Systems (GNSS)**  
-- **Data Science & Machine Learning**  
-- **Data Engineering & Cloud Computing**  
-- **Test Automation, CI/CD, and DevOps**
+### 🛰️ Core Mission & Interests
+* **Aerospace Transition:** Applying CI/CD and high-availability architecture to GNSS and CubeSat ground segments.
+* **Reliable Systems:** Expertise in GxP-compliant software and 21 CFR Part 11 data integrity standards.
+* **Distributed Architectures:** Specialized in "Triad" microservice patterns (C#/.NET, Python, React).
 
 ---
 
-### 🌱 What I’m Currently Learning  
-- **Azure Cloud & DevOps practices**  
-- **Advanced Test Automation frameworks**  
+### 🛠️ Strategic Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | **C# (.NET 10)**, **Python (FastAPI/PySpark)**, TypeScript, SQL, SAS |
+| **Data Engineering** | **Microsoft Fabric (OneLake)**, Medallion Architecture, Delta Lake, Spark |
+| **Cloud & DevOps** | **Azure**, Docker, GitHub Actions, CI/CD, Infrastructure as Code |
+| **Frontend/HMI** | React, Recharts (Industrial Dashboarding), GxP-compliant UI/UX |
 
 ---
 
-### 🤝 What I’m Looking to Collaborate On  
-- Cloud infrastructure & automation  
-- Data science and machine learning projects  
-- Data engineering pipelines and tooling  
-- Test automation frameworks & CI/CD projects  
+### 🧪 Featured Production-Scale Projects
+
+#### 🧬 [Bioprocess Insight Platform (BIP)](https://github.com/Dalbee/bioprocess-insights-platform)
+**High-Fidelity Industrial Digital Twin & GxP Dashboard**
+* **Architecture:** A Decoupled Triad (React HMI ↔ Python SCADA Engine ↔ .NET Compliance Service).
+* **Innovation:** Real-time physics simulation linking Impeller RPM to Oxygen Transfer; predictive temperature modeling using moving-window linear regression.
+* **Compliance:** Built a dedicated **.NET 10 microservice** for immutable audit trails (21 CFR Part 11).
+
+#### ⚡ [District Energy Intelligence Platform](https://github.com/Dalbee/energy-analytics-fabric-bi)
+**Enterprise Data Engineering & Governance (Microsoft Fabric)**
+* **Impact:** Identified **€4.9M** in potential cost recovery by analyzing 81,744 MWh of efficiency risk.
+* **Scale:** Implemented a full **Medallion Architecture** on OneLake using PySpark for millions of rows of telemetry data.
+* **Ops:** Designed the complete Fabric Governance framework, including RLS/OLS security and CI/CD deployment gates.
+
+#### 🤖 [OrangeHRM Test Factory](https://github.com/Dalbee/OrangeHRM)
+**DevOps & Quality Engineering**
+* Comprehensive automated testing suite designed for high-frequency deployment environments, ensuring system stability through rigorous validation.
 
 ---
 
-### 📫 Connect With Me  
-- **LinkedIn:** [linkedin.com/in/dalbertonyebuchi](https://www.linkedin.com/in/dalbertonyebuchi/)  
-- **Twitter:** [twitter.com/DalbertZim](https://twitter.com/DalbertZim)
+### 🤝 Let's Connect & Collaborate
+* **Exploring:** Open-source GNSS signal processing and satellite telemetry projects.
+* **Expertise:** Ask me about **Digital Twins**, **Azure Fabric**, or **GxP software integrity**.
+* **LinkedIn:** [linkedin.com/in/dalbertonyebuchi](https://www.linkedin.com/in/dalbertonyebuchi/)
+* **Twitter:** [@DalbertZim](https://twitter.com/DalbertZim)
 
 ---
 
-### ⚡ Fun Fact  
-I love **cycling**, **singing**, **playing the piano**, and **badminton** — balance is essential, whether in data, systems, or life!
-
-
+### ⚡ Fun Fact
+When I'm not architecting data pipelines, I’m balancing life by **cycling**, **singing**, or **playing the piano**. In data and in music, the rhythm and the "timing" (pun intended for GNSS) are everything!
