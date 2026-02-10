@@ -20,7 +20,7 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 | **Languages** | **C# (.NET 10)**, **Python (FastAPI/PySpark)**, TypeScript, SQL, SAS |
 | **Data Engineering** | **Microsoft Fabric (OneLake)**, Medallion Architecture, Delta Lake, Spark |
 | **Cloud & DevOps** | **Azure**, Docker, GitHub Actions, CI/CD, Infrastructure as Code |
-| **Frontend/HMI** | React, Recharts (Industrial Dashboarding), GxP-compliant UI/UX |
+| **Visualization & HMI**| **Power BI (DAX/DirectLake)**, **React**, Recharts, GxP-compliant UI/UX |
 
 ---
 
@@ -28,19 +28,25 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 
 #### 🧬 [Bioprocess Insight Platform (BIP)](https://github.com/Dalbee/bioprocess-insights-platform)
 **High-Fidelity Industrial Digital Twin & GxP Dashboard**
-* **Architecture:** A Decoupled Triad (React HMI ↔ Python SCADA Engine ↔ .NET Compliance Service).
-* **Innovation:** Real-time physics simulation linking Impeller RPM to Oxygen Transfer; predictive temperature modeling using moving-window linear regression.
-* **Compliance:** Built a dedicated **.NET 10 microservice** for immutable audit trails (21 CFR Part 11).
+* **Architecture:** Engineered a **Decoupled Triad Architecture** (React HMI ↔ Python SCADA Engine ↔ .NET 10 Compliance Service) to bridge historical data with live operational compliance.
+* **Innovation:** Integrated a physics-based Digital Twin linking Impeller RPM to Oxygen Transfer and predictive temperature modeling via moving-window linear regression.
+* **Compliance & HMI:** Built a dedicated **.NET microservice** for immutable audit trails (**21 CFR Part 11**) and a React-based HMI featuring deterministic, GxP-compliant pulsing alarms.
+
+
 
 #### ⚡ [District Energy Intelligence Platform](https://github.com/Dalbee/energy-analytics-fabric-bi)
-**Enterprise Data Engineering & Governance (Microsoft Fabric)**
-* **Impact:** Identified **€4.9M** in potential cost recovery by analyzing 81,744 MWh of efficiency risk.
-* **Scale:** Implemented a full **Medallion Architecture** on OneLake using PySpark for millions of rows of telemetry data.
-* **Ops:** Designed the complete Fabric Governance framework, including RLS/OLS security and CI/CD deployment gates.
+**Enterprise Data Engineering & Power BI Analytics (Microsoft Fabric)**
+* **Business Impact:** Identified **€4.9M in potential cost recovery** (81,744 MWh efficiency risk) through advanced **Power BI (DAX)** and Star-Schema modeling.
+* **Scale:** Implemented a full **Medallion Architecture** (Bronze/Silver/Gold) on OneLake using **PySpark** to process and transform millions of rows of operational telemetry.
+* **Visualization:** Developed executive-level **Power BI dashboards** utilizing calculation groups and DirectLake mode to track production vs. demand with sub-second interactivity.
+* **Governance:** Established a "Single Source of Truth" by computing complex KPIs upstream in Spark, secured via RLS/OLS, and automated through Fabric CI/CD deployment gates.
+
+
 
 #### 🤖 [OrangeHRM Test Factory](https://github.com/Dalbee/OrangeHRM)
 **DevOps & Quality Engineering**
-* Comprehensive automated testing suite designed for high-frequency deployment environments, ensuring system stability through rigorous validation.
+* **Stability:** Developed a comprehensive automated testing suite designed for high-frequency deployment environments, ensuring system reliability through rigorous validation.
+* **Automation:** Focused on building robust frameworks and CI/CD integration to minimize regression risks in production-aligned scenarios.
 
 ---
 
