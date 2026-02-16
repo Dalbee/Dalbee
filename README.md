@@ -19,7 +19,7 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | **C# (.NET 10)**, **Python (FastAPI/PySpark)**, TypeScript, SQL, SAS |
-| **Data Engineering** | **Microsoft Fabric (OneLake)**, Medallion Architecture, Delta Lake, Spark |
+| **Data Engineering** | **Databricks**, **dbt**, **Microsoft Fabric (OneLake)**, Medallion Architecture, Delta Lake, Spark |
 | **Cloud & DevOps** | **Azure**, Docker, GitHub Actions, CI/CD, Infrastructure as Code |
 | **Visualization & HMI**| **Power BI (DAX/DirectLake)**, **React**, Recharts, GxP-compliant UI/UX |
 
@@ -42,6 +42,12 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 * **Visualization:** Developed executive-level **Power BI dashboards** utilizing calculation groups and DirectLake mode to track production vs. demand with sub-second interactivity.
 * **Governance:** Established a "Single Source of Truth" by computing KPIs upstream in Spark, secured via RLS/OLS, and automated through Fabric CI/CD pipelines.
 
+#### 📦 [Nexus: Supply Chain Intelligence Lakehouse](https://github.com/Dalbee/nexus-supply-chain-ops)
+**End-to-End Medallion Pipeline (dbt + Databricks + Power BI)**
+* **Architecture:** Engineered a **Medallion Pipeline** (Bronze → Silver → Gold) in Databricks to refactor nested shipment telemetry into an optimized **Star Schema**.
+* **Engineering:** Leveraged **dbt-databricks** to implement MD5 surrogate keys and "Inferred Dimensions," ensuring 100% referential integrity for complex Fact-to-Dimension joins.
+* **Analytics Layer:** Developed an integrated **Power BI Dashboard** utilizing the Star Schema to enable sub-second "Drill Down" from executive logistics KPIs to granular `order-item` details.
+* **Quality & CI/CD:** Hardened the pipeline with **dbt 2.0 relationship tests** and automated schema validation to eliminate "Blank" slicer values and row-inflation in downstream reports.
 
 
 #### 🤖 [OrangeHRM Test Factory](https://github.com/Dalbee/OrangeHRM)
