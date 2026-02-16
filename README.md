@@ -57,13 +57,18 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 
 ---
 
+---
+
 ### 🤝 Let's Connect & Collaborate
-* **Expertise:** Ask me about **Digital Twins**, **Azure Fabric**, or **GxP software integrity**.
-* **Interests:** Always open to discussing GNSS signal processing and satellite telemetry projects.
-* **LinkedIn:** [linkedin.com/in/dalbertonyebuchi](https://www.linkedin.com/in/dalbertonyebuchi/)
-* **Twitter:** [@DalbertZim](https://twitter.com/DalbertZim)
+
+I’m always looking to bridge the gap between complex industrial data and actionable intelligence. Whether you want to talk **IIoT architecture** or **piano sonatas**, let’s chat!
+
+* **Architecture Deep-Dives:** Ask me about **Digital Twins**, **Medallion Lakehouses (Fabric/Databricks)**, or maintaining **GxP integrity** in automated pipelines.
+* **Aerospace & GNSS:** I am actively seeking collaborations on GNSS signal processing and CubeSat ground segment telemetry.
+* **Professional Hubs:** * [LinkedIn](https://www.linkedin.com/in/dalbertonyebuchi/) — For industry networking and architecture discussions.
+    * [Twitter/X](https://twitter.com/DalbertZim) — For tech updates and real-time insights.
 
 ---
 
 ### ⚡ Fun Fact
-I balance the logic of data with the rhythm of music—I love **cycling**, **singing**, and **playing the piano**. Whether in a data pipeline or a piano sonata, "timing" is everything!
+I balance the logic of data with the rhythm of music—I love **cycling**, **urban hiking**, **singing**, **leading choral groups** and **playing the piano**. Whether in a data pipeline or a piano sonata, "timing" is everything!
