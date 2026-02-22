@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dalbert (Dalbee)
 
-**Software Engineer - Data Analytics/ Data Engineering | Industrial Data Architect | GxP & DevOps Specialist**
+**Software Engineer - Data Analytics / Data Engineering | Industrial Data Architect | GxP & DevOps Specialist**
 
 I build high-integrity, distributed systems that bridge the gap between complex data and real-world operations. My expertise lies in designing **scalable data pipelines** and **mission-critical HMIs** for high-stakes industries like Biotech, Energy, and Aerospace.
 
