@@ -57,8 +57,6 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 
 ---
 
----
-
 ### 🤝 Let's Connect & Collaborate
 
 I’m always looking to bridge the gap between complex industrial data and actionable intelligence. Whether you want to talk **IIoT architecture** or **piano sonatas**, let’s chat!
