@@ -65,7 +65,8 @@ I’m always looking to bridge the gap between complex industrial data and actio
 
 * **Architecture Deep-Dives:** Ask me about **Digital Twins**, **Medallion Lakehouses (Fabric/Databricks)**, or maintaining **GxP integrity** in automated pipelines.
 * **Aerospace & GNSS:** I am actively seeking collaborations on GNSS signal processing and CubeSat ground segment telemetry.
-* **Professional Hubs:** * [LinkedIn](https://www.linkedin.com/in/dalbertonyebuchi/) — For industry networking and architecture discussions.
+* **Professional Hubs:**  
+    * [LinkedIn](https://www.linkedin.com/in/dalbertonyebuchi/) — For industry networking and architecture discussions.
     * [Twitter/X](https://twitter.com/DalbertZim) — For tech updates and real-time insights.
 
 ---
