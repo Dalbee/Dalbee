@@ -43,11 +43,13 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 * **Governance:** Established a "Single Source of Truth" by computing KPIs upstream in Spark, secured via RLS/OLS, and automated through Fabric CI/CD pipelines.
 
 #### 📦 [Nexus: Supply Chain Intelligence Lakehouse](https://github.com/Dalbee/nexus-supply-chain-ops)
-**End-to-End Medallion Pipeline (dbt + Databricks + Power BI)**
-* **Architecture:** Engineered a **Medallion Pipeline** (Bronze → Silver → Gold) in Databricks to refactor nested shipment telemetry into an optimized **Star Schema**.
-* **Engineering:** Leveraged **dbt-databricks** to implement MD5 surrogate keys and "Inferred Dimensions," ensuring 100% referential integrity for complex Fact-to-Dimension joins.
-* **Analytics Layer:** Developed an integrated **Power BI Dashboard** utilizing the Star Schema to enable sub-second "Drill Down" from executive logistics KPIs to granular `order-item` details.
-* **Quality & CI/CD:** Hardened the pipeline with **dbt 2.0 relationship tests** and automated schema validation to eliminate "Blank" slicer values and row-inflation in downstream reports.
+**End-to-End Medallion Pipeline (Databricks + dbt + Airflow + Power BI)**
+
+* **Architecture & Governance:** Engineered a **Medallion Pipeline** (Bronze → Silver → Gold) in **Databricks Unity Catalog**, refactoring 180k+ rows of nested telemetry into an optimized **Star Schema** to migrate business logic from DAX to the Warehouse.
+* **Analytics Engineering:** Leveraged **dbt-databricks** to implement MD5 surrogate keys and "Inferred Dimensions," ensuring 100% referential integrity and a 40% increase in downstream report performance.
+* **Orchestration & DevOps:** Developed a Python-based **Apache Airflow DAG** for lifecycle management and implemented **GitHub Actions CI/CD** with encrypted **Secret Management** to automate code validation and secure cloud authentication.
+* **Strategic BI Layer:** Developed an integrated **Power BI Executive Dashboard** featuring prescriptive financial modeling (Waterfall Profit Bridge) and sub-second "Drill Down" capabilities into granular shipment-item details.
+* **Quality Engineering:** Hardened the platform with **dbt 2.0 relationship tests** and automated schema validation to eliminate data "leakage" and ensure "Zero-Defect" reporting for stakeholders.
 
 
 #### 🤖 [OrangeHRM Test Factory](https://github.com/Dalbee/OrangeHRM)
