@@ -19,21 +19,26 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | **C# (.NET 10)**, **Python (FastAPI/PySpark)**, TypeScript, SQL, SAS |
-| **Data Engineering** | **Databricks**, **dbt**, **Microsoft Fabric (OneLake)**, Medallion Architecture, Delta Lake, Spark |
-| **Cloud & DevOps** | **Azure**, Docker, GitHub Actions, CI/CD, Infrastructure as Code |
-| **Visualization & HMI**| **Power BI (DAX/DirectLake)**, **React**, Recharts, GxP-compliant UI/UX |
+| **Data Engineering** | **Snowflake**, **Databricks**, **dbt**, **Airflow (Cosmos)**, Microsoft Fabric, Medallion Architecture |
+| **Cloud & DevOps** | **Azure**, **Docker**, GitHub Actions, CI/CD, Infrastructure as Code |
+| **Visualization & BI**| **Power BI (DAX/DirectLake)**, **Strategic Narratives**, React, GxP-compliant UI/UX |
 
 ---
 
 ### 🧪 Featured Production-Scale Projects
+
+#### 🏦 [Banking Digital Sales Analytics Pipeline](https://github.com/Dalbee/banking-sales-funnel-dbt)
+**End-to-End Orchestrated Pipeline (Airflow + dbt + Snowflake + Power BI)**
+* **Orchestration & DevOps:** Engineered a fully **containerized (Docker)** stack using **Apache Airflow** and **Astronomer Cosmos** to dynamically render dbt models as an integrated DAG with granular observability.
+* **Medallion Transformation:** Implemented a three-tier architecture in **Snowflake**, utilizing **dbt** for schema enforcement and a "Left Anti-Join" strategy in the Silver layer to isolate high-intent lost opportunities for re-targeting.
+* **Data Contracts:** Hardened the pipeline with automated **dbt data tests** (Unique, Not_Null) and asset lineage tracking to ensure "Zero-Defect" reporting for financial stakeholders.
+* **Prescriptive BI:** Developed an executive dashboard featuring a **Strategic Channel Efficiency Matrix** and a dynamic DAX-driven narrative engine that provides real-time investment recommendations based on portfolio variance.
 
 #### 🧬 [Bioprocess Insight Platform (BIP)](https://github.com/Dalbee/bioprocess-insights-platform)
 **Industrial Digital Twin & GxP-Compliant HMI**
 * **Architecture:** Engineered a **Decoupled Triad Architecture** (React HMI ↔ Python SCADA Engine ↔ .NET 10 Compliance Service) to bridge historical data with live operational compliance.
 * **Innovation:** Integrated a physics-based Digital Twin linking Impeller RPM to Oxygen Transfer and predictive temperature modeling via moving-window linear regression.
 * **Compliance:** Built a dedicated **.NET microservice** for immutable audit trails (**21 CFR Part 11**) and a React-based HMI featuring deterministic pulsing alarms.
-
-
 
 #### ⚡ [District Energy Intelligence Platform](https://github.com/Dalbee/energy-analytics-fabric-bi)
 **Enterprise Data Engineering & Power BI Analytics (Microsoft Fabric)**
@@ -44,18 +49,11 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 
 #### 📦 [Nexus: Supply Chain Intelligence Lakehouse](https://github.com/Dalbee/nexus-supply-chain-ops)
 **End-to-End Medallion Pipeline (Databricks + dbt + Airflow + Power BI)**
-
 * **Architecture & Governance:** Engineered a **Medallion Pipeline** (Bronze → Silver → Gold) in **Databricks Unity Catalog**, refactoring 180k+ rows of nested telemetry into an optimized **Star Schema** to migrate business logic from DAX to the Warehouse.
 * **Analytics Engineering:** Leveraged **dbt-databricks** to implement MD5 surrogate keys and "Inferred Dimensions," ensuring 100% referential integrity and a 40% increase in downstream report performance.
 * **Orchestration & DevOps:** Developed a Python-based **Apache Airflow DAG** for lifecycle management and implemented **GitHub Actions CI/CD** with encrypted **Secret Management** to automate code validation and secure cloud authentication.
 * **Strategic BI Layer:** Developed an integrated **Power BI Executive Dashboard** featuring prescriptive financial modeling (Waterfall Profit Bridge) and sub-second "Drill Down" capabilities into granular shipment-item details.
 * **Quality Engineering:** Hardened the platform with **dbt 2.0 relationship tests** and automated schema validation to eliminate data "leakage" and ensure "Zero-Defect" reporting for stakeholders.
-
-
-#### 🤖 [OrangeHRM Test Factory](https://github.com/Dalbee/OrangeHRM)
-**Quality Engineering & DevOps Automation**
-* **Stability:** Developed a comprehensive automated testing suite designed for high-frequency deployment environments, ensuring system reliability through rigorous validation.
-* **Automation:** Focused on building robust frameworks and CI/CD integration to minimize regression risks in production-aligned scenarios.
 
 ---
 
@@ -65,8 +63,7 @@ I’m always looking to bridge the gap between complex industrial data and actio
 
 * **Architecture Deep-Dives:** Ask me about **Digital Twins**, **Medallion Lakehouses (Fabric/Databricks)**, or maintaining **GxP integrity** in automated pipelines.
 * **Aerospace & GNSS:** I am actively seeking collaborations on GNSS signal processing and CubeSat ground segment telemetry.
-* **Professional Hubs:**  
-    * [LinkedIn](https://www.linkedin.com/in/dalbertonyebuchi/) — For industry networking and architecture discussions.
+* **Professional Hubs:** * [LinkedIn](https://www.linkedin.com/in/dalbertonyebuchi/) — For industry networking and architecture discussions.
     * [Twitter/X](https://twitter.com/DalbertZim) — For tech updates and real-time insights.
 
 ---
