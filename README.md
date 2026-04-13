@@ -2,12 +2,13 @@
 
 **Software Engineer - Data Analytics / Data Engineering | Industrial Data Architect | GxP & DevOps Specialist**
 
-I build high-integrity, distributed systems that bridge the gap between complex data and real-world operations. My expertise lies in designing **scalable data pipelines** and **mission-critical HMIs** for high-stakes industries like Biotech, Energy, and Aerospace.
+I build high-integrity, distributed systems that bridge the gap between complex data and real-world operations. My expertise lies in designing **scalable data pipelines** and **mission-critical HMIs** for high-stakes industries like Finance, Biotech, Energy, and Aerospace.
 
 ---
 
 ### 🚀 Core Focus & Expertise
 * **Industrial Data Engineering:** Architecting Medallion-style Lakehouses for multi-million row telemetry.
+* **Financial Analytics Engineering:** Building high-fidelity ROI models and prescriptive funnel analytics for banking and digital sales.
 * **Mission-Critical Systems:** Expertise in GxP-compliant software, 21 CFR Part 11 integrity, and high-availability DevOps.
 * **Distributed Architectures:** Specialized in "Triad" microservice patterns (.NET, Python, React).
 * **Domain Interest:** Exploring the intersection of Data Engineering and GNSS/CubeSat ground segments.
