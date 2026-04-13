@@ -27,7 +27,7 @@ I build high-integrity, distributed systems that bridge the gap between complex 
 
 ### 🧪 Featured Production-Scale Projects
 
-#### 🏦 [Banking Digital Sales Analytics Pipeline](https://github.com/Dalbee/banking-sales-funnel-dbt)
+#### 🏦 [Banking Digital Sales Analytics Pipeline](https://github.com/Dalbee/conversion-stream-pipeline.git)
 **End-to-End Orchestrated Pipeline (Airflow + dbt + Snowflake + Power BI)**
 * **Orchestration & DevOps:** Engineered a fully **containerized (Docker)** stack using **Apache Airflow** and **Astronomer Cosmos** to dynamically render dbt models as an integrated DAG with granular observability.
 * **Medallion Transformation:** Implemented a three-tier architecture in **Snowflake**, utilizing **dbt** for schema enforcement and a "Left Anti-Join" strategy in the Silver layer to isolate high-intent lost opportunities for re-targeting.
